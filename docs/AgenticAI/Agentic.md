@@ -4,7 +4,7 @@
 
 Agentic AI refers to artificial intelligence systems designed to act autonomously toward achieving goals. Unlike passive AI systems that respond to inputs, agentic AI systems can plan, reason, take actions, and adapt over time with minimal human intervention.
 
-Agentic AI is a key step toward more general and autonomous intelligent systems.
+Agentic AI is a key step toward more general and autonomous intelligent systems..
 
 ---
 
