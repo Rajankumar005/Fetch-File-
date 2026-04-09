@@ -4,7 +4,7 @@
 
 Deep Learning is a specialized subfield of machine learning that focuses on neural networks with multiple layers, known as deep neural networks. These models are inspired by the structure and function of the human brain and are capable of learning complex hierarchical representations from large amounts of data.
 
-Deep learning has been responsible for major breakthroughs in computer vision, natural language processing, speech recognition, and game-playing systems. Its success is driven by large datasets, powerful hardware such as GPUs, and advances in optimization algorithms.
+Deep learning has been responsible for major breakthroughs in computer vision, natural language processing, speech recognition, and game-playing systems. Its success is driven by large datasets, powerful hardware such as GPUs, and advances in optimization algorithms...
 
 ---
 
